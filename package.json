@@ -1,0 +1,11 @@
+{
+  "name": "opencv-installation-with-Js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/codeShaurya/opencv-installation-with-Js.git",
+  "author": "Shubham Maurya <code.shaurya@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "goof": "^0.0.1"
+  }
+}
